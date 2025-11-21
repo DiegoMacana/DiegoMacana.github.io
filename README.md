@@ -1,4 +1,4 @@
-![proyecto] <img width="1916" height="992" alt="image" src="https://github.com/user-attachments/assets/4b025bf9-4867-43ad-a6a0-650353ac9d37" />
+<img width="1916" height="992" alt="image" src="https://github.com/user-attachments/assets/4b025bf9-4867-43ad-a6a0-650353ac9d37" />
 
 Este proyecto cuenta con 5 paginas principalmente de las cuales estare hablando
 
